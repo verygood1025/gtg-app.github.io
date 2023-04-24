@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Hearth Stone';
+    src: url('HearthStone.eot');
+    src: url('HearthStone.eot?#iefix') format('embedded-opentype'),
+        url('HearthStone.woff2') format('woff2'),
+        url('HearthStone.woff') format('woff'),
+        url('HearthStone.ttf') format('truetype'),
+        url('HearthStone.svg#HearthStone') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
